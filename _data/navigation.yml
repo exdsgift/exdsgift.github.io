@@ -7,7 +7,7 @@
 main:
   - title: "CV"
     #url: /cv/
-    url: files/GabrieleDurante_resume.pdf
+    url: /files/resume.pdf
 
   - title: "Portfolio"
     url: /portfolio/
