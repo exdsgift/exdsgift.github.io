@@ -9,10 +9,12 @@ redirect_from:
 
 I am a passionate **Data Scientist and Machine Learning Engineer** with a strong foundation in **statistical learning**, **deep learning**, and **applied data science**. With a **Master's in Data Science** from the University of Verona and an ongoing exchange program at the University of Oslo focusing on **advanced reinforcement learning** and **natural language processing**, I combine academic excellence with hands-on industry experience.
 
+My academic journey began with a **Bachelor's in Banking and Finance**, where I developed a solid understanding of **mathematical analysis**, **econometrics**, and **financial modeling**.
+
 My professional journey spans roles as a **financial data analyst**, **data scientist**, and **data analyst**, where I have implemented **predictive modeling**, **workflow optimization**, and **risk analysis protocols**.
 
 
-## coursework
+## Coursework
 List of my coursework during my academic career
 
 ### Fall 2024 - University of Oslo
