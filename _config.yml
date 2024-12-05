@@ -21,7 +21,7 @@ repository               : "exdsgift/exdsgift.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile_gabriele.JPG"
   name             : "Gabriele Durante"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist and ML Engineer"
